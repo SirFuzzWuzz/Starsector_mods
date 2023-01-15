@@ -3,6 +3,6 @@ Starsector modding
 
 ImmersiveSkills: Acquire skills by finding them as skill blueprints, experimental (feedback plz).
 
-LargeThumper: Adds a large twin-thumper and a long thumper, more thumpers coming soon tm.
+LargeThumper: OLD, twinthumper is in FuzzyPack now.
 
 FuzzyPack: Smol ship pack with random ships and weapons I felt like making.

@@ -1,7 +1,7 @@
 # Starsector_mods
 Starsector modding
 
-ImmersiveSkills: Acquire skills by finding them as skill blueprints, experimental (feedback plz).
+ImmersiveSkills: Acquire skills by finding them as skill blueprints, experimental (experimental).
 
 LargeThumper: OLD, twinthumper is in FuzzyPack soon TM.
 

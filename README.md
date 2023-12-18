@@ -1,7 +1,7 @@
 # Starsector_mods
 Starsector modding
 
-ImmersiveSkills: Acquire skills by finding them as skill blueprints, experimental (experimental) (yes really).
+ImmersiveSkills: Acquire skills by finding them as skill blueprints.
 
 FuzzyPack: Medium ship and weapons pack with random ships and weapons I felt like making, very cool.
 
